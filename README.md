@@ -38,7 +38,9 @@ University of Agriculture,BN,NG
 
 ### [Project 2: POS-Performance-Metrics-Reports ](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
 
-![Channel Performance Analysis](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023/blob/main/Channels%20Performance%20Report%20PBI%20January%2C%202023_page-0001.jpg)
+![Channel Performance Analysis](https://github.com/danielagbo44/danielagbo.github.io/blob/main/assets/Card%20Updated%20Report%2019062023_page-0001.jpg)
+
+
 
 
 [My Resume]
