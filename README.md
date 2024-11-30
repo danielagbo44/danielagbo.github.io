@@ -38,7 +38,8 @@ University of Agriculture,BN,NG
 
 ### [Project 2: POS-Performance-Metrics-Reports ](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
 
-![Channel Performance Analysis](https://github.com/danielagbo44/danielagbo.github.io.git)
+
+![Card Updated Report 19062023_page-0001](https://github.com/user-attachments/assets/e80e1b08-14b5-425f-9917-0ee585b9b5f0)
 
 
 
