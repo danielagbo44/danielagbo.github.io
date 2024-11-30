@@ -1,4 +1,4 @@
-# Technical Communicator | Data Analyst
+# Technical Communicator & Data Analyst
 
 ## About
 
